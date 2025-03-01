@@ -34,7 +34,7 @@ adoption more difficult for those who need to use cedilla-c regularly.
 At the shell prompt, type:
 
 ```bash
-wget -q https://raw.githubusercontent.com/marcopaganini/gnome-cedilla-fix/master/fix-cedilla -O fix-cedilla
+wget -q https://raw.githubusercontent.com/lima195/gnome-cedilla-fix/refs/heads/master/fix-cedilla -O fix-cedilla
 chmod 755 fix-cedilla
 ./fix-cedilla
 ```
